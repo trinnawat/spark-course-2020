@@ -15,5 +15,10 @@
 - start-slave.sh -c 1 spark://<name from Spark Web UI>:7077
 - test running pyspark
 
+## How to submit spark job to pyspark
+- cd ~/spark-course-2020
+- spark-submit src/ratings-counter.py
+
+
 ## Reference
 - https://phoenixnap.com/kb/install-spark-on-ubuntu
