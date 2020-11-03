@@ -2,6 +2,7 @@
 
 ## Environment
 - WSL:Ubuntu-18.04
+- vscode
 
 ## Install Spark on Ubuntu
 - sudo apt update
